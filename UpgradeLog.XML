@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="FormLogin">
+</Property><Property Name="Solution File" Value="D:\FormLogin\FormLogin.sln">
+</Property><Property Name="Date" Value="Senin, 27 Desember 2021">
+</Property><Property Name="Time" Value="16.41">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="FormLogin.sln" Description="File successfully backed up as D:\FormLogin\Backup\FormLogin.sln">
+</Event><Event ErrorLevel="0" Project="FormLogin" Source="FormLogin\FormLogin.vbproj" Description="Project file successfully backed up as D:\FormLogin\Backup\FormLogin\FormLogin.vbproj">
+</Event><Event ErrorLevel="0" Project="FormLogin" Source="FormLogin\FormLogin.vbproj.user" Description="Project user file successfully backed up as D:\FormLogin\Backup\FormLogin\FormLogin.vbproj.user">
+</Event><Event ErrorLevel="0" Project="FormLogin" Source="FormLogin\DataSet1.Designer.vb" Description="File successfully backed up as D:\FormLogin\Backup\FormLogin\DataSet1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="FormLogin" Source="FormLogin\FormLogin.Designer.vb" Description="File successfully backed up as D:\FormLogin\Backup\FormLogin\FormLogin.Designer.vb">
+</Event><Event ErrorLevel="0" Project="FormLogin" Source="FormLogin\FormLogin.vb" Description="File successfully backed up as D:\FormLogin\Backup\FormLogin\FormLogin.vb">
+</Event><Event ErrorLevel="0" Project="FormLogin" Source="FormLogin\FormMasterUser.Designer.vb" Description="File successfully backed up as D:\FormLogin\Backup\FormLogin\FormMasterUser.Designer.vb">
+</Event><Event ErrorLevel="0" Project="FormLogin" Source="FormLogin\FormMasterUser.vb" Description="File successfully backed up as D:\FormLogin\Backup\FormLogin\FormMasterUser.vb">
+</Event><Event ErrorLevel="0" Project="FormLogin" Source="FormLogin\FormMenuUtama.Designer.vb" Description="File successfully backed up as D:\FormLogin\Backup\FormLogin\FormMenuUtama.Designer.vb">
+</Event><Event ErrorLevel="0" Project="FormLogin" Source="FormLogin\FormMenuUtama.vb" Description="File successfully backed up as D:\FormLogin\Backup\FormLogin\FormMenuUtama.vb">
+</Event><Event ErrorLevel="0" Project="FormLogin" Source="FormLogin\FormReport.Designer.vb" Description="File successfully backed up as D:\FormLogin\Backup\FormLogin\FormReport.Designer.vb">
+</Event><Event ErrorLevel="0" Project="FormLogin" Source="FormLogin\FormReport.vb" Description="File successfully backed up as D:\FormLogin\Backup\FormLogin\FormReport.vb">
+</Event><Event ErrorLevel="0" Project="FormLogin" Source="FormLogin\Module1.vb" Description="File successfully backed up as D:\FormLogin\Backup\FormLogin\Module1.vb">
+</Event><Event ErrorLevel="0" Project="FormLogin" Source="FormLogin\Module2.vb" Description="File successfully backed up as D:\FormLogin\Backup\FormLogin\Module2.vb">
+</Event><Event ErrorLevel="0" Project="FormLogin" Source="FormLogin\My Project\AssemblyInfo.vb" Description="File successfully backed up as D:\FormLogin\Backup\FormLogin\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="FormLogin" Source="FormLogin\My Project\Application.Designer.vb" Description="File successfully backed up as D:\FormLogin\Backup\FormLogin\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="FormLogin" Source="FormLogin\My Project\Resources.Designer.vb" Description="File successfully backed up as D:\FormLogin\Backup\FormLogin\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="FormLogin" Source="FormLogin\My Project\Settings.Designer.vb" Description="File successfully backed up as D:\FormLogin\Backup\FormLogin\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="FormLogin" Source="FormLogin\Report1.vb" Description="File successfully backed up as D:\FormLogin\Backup\FormLogin\Report1.vb">
+</Event><Event ErrorLevel="0" Project="FormLogin" Source="FormLogin\DataSet1.xsc" Description="File successfully backed up as D:\FormLogin\Backup\FormLogin\DataSet1.xsc">
+</Event><Event ErrorLevel="0" Project="FormLogin" Source="FormLogin\DataSet1.xsd" Description="File successfully backed up as D:\FormLogin\Backup\FormLogin\DataSet1.xsd">
+</Event><Event ErrorLevel="0" Project="FormLogin" Source="FormLogin\DataSet1.xss" Description="File successfully backed up as D:\FormLogin\Backup\FormLogin\DataSet1.xss">
+</Event><Event ErrorLevel="0" Project="FormLogin" Source="FormLogin\My Project\Application.myapp" Description="File successfully backed up as D:\FormLogin\Backup\FormLogin\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="FormLogin" Source="FormLogin\My Project\Settings.settings" Description="File successfully backed up as D:\FormLogin\Backup\FormLogin\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="FormLogin" Source="FormLogin\FormLogin.resx" Description="File successfully backed up as D:\FormLogin\Backup\FormLogin\FormLogin.resx">
+</Event><Event ErrorLevel="0" Project="FormLogin" Source="FormLogin\FormMasterUser.resx" Description="File successfully backed up as D:\FormLogin\Backup\FormLogin\FormMasterUser.resx">
+</Event><Event ErrorLevel="0" Project="FormLogin" Source="FormLogin\FormMenuUtama.resx" Description="File successfully backed up as D:\FormLogin\Backup\FormLogin\FormMenuUtama.resx">
+</Event><Event ErrorLevel="0" Project="FormLogin" Source="FormLogin\FormReport.resx" Description="File successfully backed up as D:\FormLogin\Backup\FormLogin\FormReport.resx">
+</Event><Event ErrorLevel="0" Project="FormLogin" Source="FormLogin\My Project\Resources.resx" Description="File successfully backed up as D:\FormLogin\Backup\FormLogin\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="FormLogin" Source="FormLogin\Report1.rpt" Description="File successfully backed up as D:\FormLogin\Backup\FormLogin\Report1.rpt">
+</Event><Event ErrorLevel="0" Project="FormLogin" Source="FormLogin\FormLogin.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="FormLogin" Source="FormLogin\FormLogin.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="FormLogin.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="FormLogin.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="FormLogin" Source="FormLogin\FormLogin.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
